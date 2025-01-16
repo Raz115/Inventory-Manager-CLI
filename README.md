@@ -32,6 +32,6 @@ It should contain the actions processed and their results.
 Check the `inventory.txt` file in the `bin/Debug/net9.0` folder.
 It should contain the current inventory after the actions were processed.
 
-###Compare 
+### Compare 
 Compare the  `MirzaR_PASS2.txt` file with the `expectedOutput.txt` found in the `InOutFiles` folder for reference.
 Similarly compare `inventory.txt` file with the `updatedInventory.txt` in the same folder 
