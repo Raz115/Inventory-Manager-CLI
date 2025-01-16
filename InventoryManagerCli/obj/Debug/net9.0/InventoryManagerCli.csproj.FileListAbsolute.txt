@@ -1,0 +1,14 @@
+c:\Users\Zainab\ToGitHub\InventoryManagerCli\bin\Debug\net9.0\InventoryManagerCli.exe
+C:\Users\Zainab\ToGitHub\InventoryManagerCli\bin\Debug\net9.0\InventoryManagerCli.deps.json
+C:\Users\Zainab\ToGitHub\InventoryManagerCli\bin\Debug\net9.0\InventoryManagerCli.runtimeconfig.json
+c:\Users\Zainab\ToGitHub\InventoryManagerCli\bin\Debug\net9.0\InventoryManagerCli.dll
+c:\Users\Zainab\ToGitHub\InventoryManagerCli\bin\Debug\net9.0\InventoryManagerCli.pdb
+c:\Users\Zainab\ToGitHub\InventoryManagerCli\obj\Debug\net9.0\InventoryManagerCli.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Zainab\ToGitHub\InventoryManagerCli\obj\Debug\net9.0\InventoryManagerCli.AssemblyInfoInputs.cache
+c:\Users\Zainab\ToGitHub\InventoryManagerCli\obj\Debug\net9.0\InventoryManagerCli.AssemblyInfo.cs
+c:\Users\Zainab\ToGitHub\InventoryManagerCli\obj\Debug\net9.0\InventoryManagerCli.csproj.CoreCompileInputs.cache
+c:\Users\Zainab\ToGitHub\InventoryManagerCli\obj\Debug\net9.0\InventoryManagerCli.dll
+c:\Users\Zainab\ToGitHub\InventoryManagerCli\obj\Debug\net9.0\refint\InventoryManagerCli.dll
+c:\Users\Zainab\ToGitHub\InventoryManagerCli\obj\Debug\net9.0\InventoryManagerCli.pdb
+C:\Users\Zainab\ToGitHub\InventoryManagerCli\obj\Debug\net9.0\InventoryManagerCli.genruntimeconfig.cache
+C:\Users\Zainab\ToGitHub\InventoryManagerCli\obj\Debug\net9.0\ref\InventoryManagerCli.dll

@@ -1,0 +1,25 @@
+Movie,The Matrix,6.99,076950450481,Action,DVD,1999,Wachowski Brothers,R,136
+Book,The Hobbit,7.99,943568130012,Fantasy,Paperback,1937,J.R.R. Tolkien,Tor
+Game,Halo Reach,49.99,614141007349,FPS,Microsoft,2010,M,91
+Book,Something Full Murderhobo,31.27,876239801382,Lit-RPG,Audiobook,2020,Dakota Krout,Mountaindale Press
+Game,The Last of Us,59.99,928743829310,Adventure,Sony,2013,M,95
+Game,Goldeneye 007,79.99,934710382911,FPS,Nintendo,1997,T,96
+Movie,Lord of the Rings,15.99,000000000000,Fantasy,Blu-Ray,2001,Peter Jackson,PG-13,178
+Book,Lord of the Rings,27.95,000000000006,Fantasy,Paperback,1954,J.R.R. Tolkien,Allen & Unwin
+Game,GameName_1,38.17,000000000001,Adventure,Sony,2019,T,10
+Game,GameName_2,27.35,000000000002,RPG,PC,2022,M,42
+Movie,MovieName_3,12.63,000000000003,Romance,Blu-Ray,1909,DirectorName_3,R,153
+Movie,MovieName_4,3.14,000000000004,Action,DVD,1970,DirectorName_4,PG,143
+Game,GameName_5,103.62,000000000005,RPG,Sony,1995,T,73
+Game,GameName_7,24.17,000000000007,FPS,Sony,1995,AO,36
+Movie,MovieName_8,15.42,000000000008,Romance,Blu-Ray,1975,DirectorName_8,R,162
+Movie,MovieName_9,4.73,000000000009,Comedy,Blu-Ray,1906,DirectorName_9,PG,140
+Book,BookName_10,41.88,000000000010,Romance,Audiobook,1640,AuthorName_10,PublisherName_10
+Movie,MovieName_11,5.58,000000000011,Horror,Blu-Ray,1912,DirectorName_11,NC-17,176
+Book,BookName_12,58.49,000000000012,Fantasy,Paperback,1697,AuthorName_12,PublisherName_12
+Book,BookName_13,52.57,000000000013,Crime,Audiobook,1744,AuthorName_13,PublisherName_13
+Book,BookName_14,47.97,000000000014,Romance,Hardcover,1797,AuthorName_14,PublisherName_14
+Book,BookName_15,48.61,000000000015,Adventure,Paperback,2018,AuthorName_15,PublisherName_15
+Game,GameName_16,36.15,000000000016,FPS,Nintendo,1992,E,70
+Game,GameName_18,108.09,000000000018,Adventure,PC,2003,E-10+,46
+Movie,MovieName_19,24.18,000000000019,Action,DVD,1906,DirectorName_19,NC-17,218
