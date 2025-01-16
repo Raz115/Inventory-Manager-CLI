@@ -1,0 +1,18 @@
+Book,Halo Reach,59.99,614141007350,Adventure,Paperback,2002,Eric Nylund,Tor
+Book,Dungeon Crawler Carl,57.99,567890543312,Lit-RPG,Audiobook,2020,Matt Dinniman,Tantor Audio
+Book,BookName_13,52.57,000000000013,Crime,Audiobook,1744,AuthorName_13,PublisherName_13
+Book,BookName_15,48.61,000000000015,Adventure,Paperback,2018,AuthorName_15,PublisherName_15
+Book,BookName_14,47.97,000000000014,Romance,Hardcover,1797,AuthorName_14,PublisherName_14
+Book,BookName_10,41.88,000000000010,Romance,Audiobook,1640,AuthorName_10,PublisherName_10
+Book,Something Full Murderhobo,31.27,876239801382,Lit-RPG,Audiobook,2020,Dakota Krout,Mountaindale Press
+Book,Lord of the Rings,27.95,000000000006,Fantasy,Paperback,1954,J.R.R. Tolkien,Allen & Unwin
+Book,The Hobbit,7.99,943568130012,Fantasy,Paperback,1937,J.R.R. Tolkien,Tor
+Movie,MovieName_19,24.18,000000000019,Action,DVD,1906,DirectorName_19,NC-17,218
+Movie,Shawshank Redemption,18.95,076950450479,Adventure,DVD,1994,Frank Darabont,R,142
+Movie,Lord of the Rings,15.99,000000000000,Fantasy,Blu-Ray,2001,Peter Jackson,PG-13,178
+Movie,MovieName_8,15.42,000000000008,Romance,Blu-Ray,1975,DirectorName_8,R,162
+Movie,MovieName_3,12.63,000000000003,Romance,Blu-Ray,1909,DirectorName_3,R,153
+Movie,The Matrix,6.99,076950450481,Action,DVD,1999,Wachowski Brothers,R,136
+Movie,MovieName_11,5.58,000000000011,Horror,Blu-Ray,1912,DirectorName_11,NC-17,176
+Movie,MovieName_9,4.73,000000000009,Comedy,Blu-Ray,1906,DirectorName_9,PG,140
+Movie,MovieName_4,3.14,000000000004,Action,DVD,1970,DirectorName_4,PG,143

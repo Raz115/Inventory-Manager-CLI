@@ -1,0 +1,35 @@
+Display2:Movie
+Display2:Game
+Display2:Book
+Add:Movie,Shawshank Redemption,8.99,076950450479,Adventure,DVD,1994,Frank Darabont,R,142
+Add:Book,Halo Reach,21.99,614141007350,Adventure,Paperback,2002,Eric Nylund,Tor
+Add:Book,Dungeon Crawler Carl,57.99,567890543312,Lit-RPG,Audiobook,2020,Matt Dinniman,Tantor Audio
+FindName:Shawshank Redemption:Display:0
+FindName:Lord of the Rings:Display:0
+FindName:Lord of the Rings:Display:1
+SortByName
+Display2:Movie
+SortByCost
+Display2:Book
+FindBarcode:076950450479:Modify:18.95
+FindBarcode:076950450479:Display
+FindName:Halo Reach:Display:0
+FindName:Halo Reach:Display:1
+FindName:Halo Reach:Modify:0:59.99
+SortByCost
+Display2:Book
+FindBarcode:000000000012:Delete
+Display2:Book
+FindBarcode:928743829310:Delete
+FindBarcode:934710382911:Delete
+FindBarcode:000000000001:Delete
+FindBarcode:000000000002:Delete
+FindBarcode:000000000005:Delete
+FindBarcode:000000000007:Delete
+FindBarcode:000000000016:Delete
+FindBarcode:000000000018:Delete
+Display2:Game
+FindBarcode:614141007349:Delete
+Display2:Game
+FindBarcode:000000100000:Display
+FindName:Off to be the Wizard:Delete:0

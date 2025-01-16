@@ -1,0 +1,223 @@
+Type: Movie
+Name: The Matrix
+Cost: 6.99
+Barcode: 076950450481
+Genre: Action
+Platform: DVD
+Release Year: 1999
+Director: Wachowski Brothers
+MPAA Rating: R
+Duration: 136
+
+Type: Movie
+Name: Lord of the Rings
+Cost: 15.99
+Barcode: 000000000000
+Genre: Fantasy
+Platform: Blu-Ray
+Release Year: 2001
+Director: Peter Jackson
+MPAA Rating: PG-13
+Duration: 178
+
+Type: Game
+Name: Halo Reach
+Cost: 49.99
+Barcode: 614141007349
+Genre: FPS
+Platform: Microsoft
+Release Year: 2010
+Rating: M
+Score: 91
+
+Type: Game
+Name: The Last of Us
+Cost: 59.99
+Barcode: 928743829310
+Genre: Adventure
+Platform: Sony
+Release Year: 2013
+Rating: M
+Score: 95
+
+Type: Book
+Name: The Hobbit
+Cost: 7.99
+Barcode: 943568130012
+Genre: Fantasy
+Platform: Paperback
+Release Year: 1937
+Author: J.R.R. Tolkien
+Publisher: Tor
+
+Type: Book
+Name: Something Full Murderhobo
+Cost: 31.27
+Barcode: 876239801382
+Genre: Lit-RPG
+Platform: Audiobook
+Release Year: 2020
+Author: Dakota Krout
+Publisher: Mountaindale Press
+
+Type: Movie
+Name: Shawshank Redemption
+Cost: 8.99
+Barcode: 076950450479
+Genre: Adventure
+Platform: DVD
+Release Year: 1994
+Director: Frank Darabont
+MPAA Rating: R
+Duration: 142
+
+Type: Movie
+Name: Lord of the Rings
+Cost: 15.99
+Barcode: 000000000000
+Genre: Fantasy
+Platform: Blu-Ray
+Release Year: 2001
+Director: Peter Jackson
+MPAA Rating: PG-13
+Duration: 178
+
+Type: Book
+Name: Lord of the Rings
+Cost: 27.95
+Barcode: 000000000006
+Genre: Fantasy
+Platform: Paperback
+Release Year: 1954
+Author: J.R.R. Tolkien
+Publisher: Allen & Unwin
+
+Type: Movie
+Name: Lord of the Rings
+Cost: 15.99
+Barcode: 000000000000
+Genre: Fantasy
+Platform: Blu-Ray
+Release Year: 2001
+Director: Peter Jackson
+MPAA Rating: PG-13
+Duration: 178
+
+Type: Movie
+Name: MovieName_11
+Cost: 5.58
+Barcode: 000000000011
+Genre: Horror
+Platform: Blu-Ray
+Release Year: 1912
+Director: DirectorName_11
+MPAA Rating: NC-17
+Duration: 176
+
+Type: Book
+Name: BookName_12
+Cost: 58.49
+Barcode: 000000000012
+Genre: Fantasy
+Platform: Paperback
+Release Year: 1697
+Author: AuthorName_12
+Publisher: PublisherName_12
+
+Type: Book
+Name: Dungeon Crawler Carl
+Cost: 57.99
+Barcode: 567890543312
+Genre: Lit-RPG
+Platform: Audiobook
+Release Year: 2020
+Author: Matt Dinniman
+Publisher: Tantor Audio
+
+Type: Movie
+Name: Shawshank Redemption
+Cost: 18.95
+Barcode: 076950450479
+Genre: Adventure
+Platform: DVD
+Release Year: 1994
+Director: Frank Darabont
+MPAA Rating: R
+Duration: 142
+
+Type: Book
+Name: Halo Reach
+Cost: 21.99
+Barcode: 614141007350
+Genre: Adventure
+Platform: Paperback
+Release Year: 2002
+Author: Eric Nylund
+Publisher: Tor
+
+Type: Game
+Name: Halo Reach
+Cost: 49.99
+Barcode: 614141007349
+Genre: FPS
+Platform: Microsoft
+Release Year: 2010
+Rating: M
+Score: 91
+
+Type: Book
+Name: Halo Reach
+Cost: 59.99
+Barcode: 614141007350
+Genre: Adventure
+Platform: Paperback
+Release Year: 2002
+Author: Eric Nylund
+Publisher: Tor
+
+Type: Book
+Name: BookName_12
+Cost: 58.49
+Barcode: 000000000012
+Genre: Fantasy
+Platform: Paperback
+Release Year: 1697
+Author: AuthorName_12
+Publisher: PublisherName_12
+
+Type: Book
+Name: Halo Reach
+Cost: 59.99
+Barcode: 614141007350
+Genre: Adventure
+Platform: Paperback
+Release Year: 2002
+Author: Eric Nylund
+Publisher: Tor
+
+Type: Book
+Name: Dungeon Crawler Carl
+Cost: 57.99
+Barcode: 567890543312
+Genre: Lit-RPG
+Platform: Audiobook
+Release Year: 2020
+Author: Matt Dinniman
+Publisher: Tantor Audio
+
+Type: Game
+Name: Halo Reach
+Cost: 49.99
+Barcode: 614141007349
+Genre: FPS
+Platform: Microsoft
+Release Year: 2010
+Rating: M
+Score: 91
+
+No items of type Game found.
+
+Item: 000000100000 not found
+
+Item: Off to be the Wizard not found
+
